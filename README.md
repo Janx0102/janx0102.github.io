@@ -1,4 +1,4 @@
-# Xinyi Wu · Digital Garden
+## Homepage 🐈‍⬛
 
 Welcome to my digital garden 🌱
 
@@ -9,12 +9,12 @@ a Master's student in Cyberspace Security focusing on:
 - AI Safety
 - Agent Security
 
-🔗 **Live Site:**  
-👉 https://janx0102.github.io
+**Live Site:**  
+https://janx0102.github.io
 
 ---
 
-## ✨ About
+## About 🐾
 
 This site serves as a lightweight academic homepage, including:
 
