@@ -1,0 +1,8 @@
+{
+  "name": "Monochrome AI Portfolio",
+  "description": "A minimalist, monochrome-themed blog and portfolio application inspired by the Hugo Monochrome theme, featuring AI-powered summaries and content analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
